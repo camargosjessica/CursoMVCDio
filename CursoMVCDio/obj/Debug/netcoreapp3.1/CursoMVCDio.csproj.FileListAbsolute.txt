@@ -8,7 +8,6 @@ C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\bin\Debug\netcoreapp3.1\Curs
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\bin\Debug\netcoreapp3.1\CursoMVCDio.pdb
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\bin\Debug\netcoreapp3.1\CursoMVCDio.Views.dll
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\bin\Debug\netcoreapp3.1\CursoMVCDio.Views.pdb
-C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\CursoMVCDio.csprojAssemblyReference.cache
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\CursoMVCDio.AssemblyInfoInputs.cache
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\CursoMVCDio.AssemblyInfo.cs
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\CursoMVCDio.csproj.CoreCompileInputs.cache

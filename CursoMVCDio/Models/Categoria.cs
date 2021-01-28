@@ -10,5 +10,6 @@ namespace CursoMVCDio.Models
         public int Id { get; set; }
 
         public string Descricao { get; set; }
+        public List<Produto> Produtos { get; set; }
     }
 }

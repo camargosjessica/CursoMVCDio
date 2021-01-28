@@ -172,3 +172,9 @@ C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razo
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\CursoMVCDio.csprojAssemblyReference.cache
+C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\camar\source\repos\CursoMVCDio\CursoMVCDio\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs

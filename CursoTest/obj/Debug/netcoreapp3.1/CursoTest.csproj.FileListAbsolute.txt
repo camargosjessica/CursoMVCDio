@@ -243,3 +243,4 @@ C:\Users\camar\source\repos\CursoMVCDio\CursoTest\bin\Debug\netcoreapp3.1\CursoM
 C:\Users\camar\source\repos\CursoMVCDio\CursoTest\bin\Debug\netcoreapp3.1\CursoAPI.pdb
 C:\Users\camar\source\repos\CursoMVCDio\CursoTest\bin\Debug\netcoreapp3.1\CursoAPI.xml
 C:\Users\camar\source\repos\CursoMVCDio\CursoTest\bin\Debug\netcoreapp3.1\CursoMVCDio.pdb
+C:\Users\camar\source\repos\CursoMVCDio\CursoTest\bin\Debug\netcoreapp3.1\CursoAPI.StaticWebAssets.xml

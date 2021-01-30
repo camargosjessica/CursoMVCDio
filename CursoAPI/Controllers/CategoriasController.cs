@@ -20,6 +20,7 @@ namespace CursoAPI.Controllers
             _context = context;
         }
 
+
         // GET: api/Categorias
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Categoria>>> GetCategorias()
